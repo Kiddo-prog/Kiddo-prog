@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Hussein Mubarak</h1>
-<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiddo-prog&label=Profile%20views&color=0e75b6&style=flat" alt="kiddo-prog" /> </p>
 
