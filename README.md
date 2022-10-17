@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kiddo-prog" alt="kiddo-prog" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-two-kappa.vercel.app/](https://my-portfolio-two-kappa.vercel.app/)
-
-- 📝 I regularly write articles on [https://codewithmubi.herokuapp.com/](https://codewithmubi.herokuapp.com/)
+- 👨‍💻 All of my projects are available at [https://codewithmubi.vercel.app/](https://codewithmubi.vercel.app/)
 
 - 💬 Ask me about **Django, React, Python, JavaScript**
 
